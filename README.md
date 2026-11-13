@@ -16,9 +16,6 @@ Our team follows the GitHub Flow branching model:
    - At least one team member must review and approve the diff.
 4. **Merge Conflict Resolution**:
    - Conflicts must be resolved using IDE merge tools (e.g., VS Code 3-Way Merge Editor) before completing PR merge.
-<<<<<<< HEAD
 
    ## Status: Feature Under Active Testing
-=======
 ## Status: Main Production Release v1.0
->>>>>>> origin/main
